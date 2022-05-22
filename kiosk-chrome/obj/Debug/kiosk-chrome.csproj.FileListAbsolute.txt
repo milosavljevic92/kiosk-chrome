@@ -1,0 +1,15 @@
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\kiosk-chrome.exe.config
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\kiosk-chrome.exe
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\kiosk-chrome.pdb
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk-chrome.csproj.AssemblyReference.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk_chrome.Properties.Resources.resources
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk-chrome.csproj.GenerateResource.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk-chrome.csproj.CoreCompileInputs.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk-chrome.exe
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk-chrome.pdb
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\Geckofx-Core.dll
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\Geckofx-Winforms.dll
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\Geckofx-Core.pdb
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Debug\Geckofx-Winforms.pdb
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk_chrome.frmMainTab.resources
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Debug\kiosk_chrome.frmUnlock.resources

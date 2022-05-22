@@ -1,0 +1,17 @@
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\kiosk-chrome.exe.config
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\kiosk-chrome.exe
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\kiosk-chrome.pdb
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.Core.dll
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.dll
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.WinForms.dll
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.xml
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.Core.xml
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\bin\Release\CefSharp.WinForms.xml
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.csproj.AssemblyReference.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk_chrome.Form1.resources
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk_chrome.Properties.Resources.resources
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.csproj.GenerateResource.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.csproj.CoreCompileInputs.cache
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.csproj.CopyComplete
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.exe
+C:\Users\damir\source\repos\kiosk-chrome\kiosk-chrome\obj\Release\kiosk-chrome.pdb
